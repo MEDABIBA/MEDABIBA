@@ -1,6 +1,6 @@
 <div align="center">
 
-![laptop](./assets/laptop.gif)
+![ship](./assets/giphy.gif)
 
 <br />
 
@@ -73,7 +73,7 @@
 
 <br /><br />
 <img src="./assets/giphy.webp" alt="retro gif" height="80" />
-<img src="./assets/200.webp" alt="retro gif" height="80" />
+<img src="./assets/pirate.gif" alt="retro gif" height="80" />
 <img src="./assets/.windows.webp" alt="retro windows" height="80" />
 
 <br /><br />

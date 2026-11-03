@@ -61,6 +61,9 @@
 
 ### 📫 How to find me
 
+<a href="https://www.linkedin.com/in/yaremenko-yaremenko-32b567300/" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-Social%20Media?style=for-the-badge&logo=linkedin&color=%230072B1" alt="Linkedin" />
+</a>
 <a href="https://t.me/Slavammr" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
